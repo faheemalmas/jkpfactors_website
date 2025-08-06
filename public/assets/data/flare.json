@@ -1,0 +1,1215 @@
+{
+  "name": "JKP factor",
+  "children": [
+    {
+      "name": "Accruals",
+      "children": [
+        {
+          "name": "Change in current operating working capital",
+          "children": [
+            {
+              "name": "Richardson et al. (2005)"
+            }
+          ]
+        },
+        {
+          "name": "Operating accruals",
+          "children": [
+            {
+              "name": "Sloan (1996)"
+            }
+          ]
+        },
+        {
+          "name": "Percent operating accruals",
+          "children": [
+            {
+              "name": "Hafzalla Lundholm and Van Winkle (2011)"
+            }
+          ]
+        },
+        {
+          "name": "Years 16-20 lagged returns, nonannual",
+          "children": [
+            {
+              "name": "Heston and Sadka (2008)"
+            }
+          ]
+        },
+        {
+          "name": "Total accrual",
+          "children": [
+            {
+              "name": "Richardson et al. (2005)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Debt Issuance",
+      "children": [
+        {
+          "name": "Abnormal corporate investment",
+          "children": [
+            {
+              "name": "Titman Wei and Xie (2004) "
+            }
+          ]
+        },
+        {
+          "name": "Growth in book debt (3 years)",
+          "children": [
+            {
+              "name": "Lyandres Sun and Zhang (2008)"
+            }
+          ]
+        },
+        {
+          "name": "Change in financial liabilities",
+          "children": [
+            {
+              "name": "Richardson et al. (2005)"
+            }
+          ]
+        },
+        {
+          "name": "Change in noncurrent operating liabilities",
+          "children": [
+            {
+              "name": "Richardson et al. (2005)"
+            }
+          ]
+        },
+        {
+          "name": "Change in net financial assets",
+          "children": [
+            {
+              "name": "Richardson et al. (2005)"
+            }
+          ]
+        },
+        {
+          "name": "Earnings persistence",
+          "children": [
+            {
+              "name": "Francis et al. (2004)"
+            }
+          ]
+        },
+        {
+          "name": "Net operating assets",
+          "children": [
+            {
+              "name": "Hirshleifer et al. (2004)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Investment",
+      "children": [
+        {
+          "name": "Liquidity of book assets",
+          "children": [
+            {
+              "name": "Ortiz-Molina and Phillips (2014)"
+            }
+          ]
+        },
+        {
+          "name": "Asset Growth",
+          "children": [
+            {
+              "name": "Cooper Gulen and Schill (2008)"
+            }
+          ]
+        },
+        {
+          "name": "Change in common equity",
+          "children": [
+            {
+              "name": "Richardson et al. (2005)"
+            }
+          ]
+        },
+        {
+          "name": "CAPEX growth (1 year)",
+          "children": [
+            {
+              "name": "Xie (2001)"
+            }
+          ]
+        },
+        {
+          "name": "CAPEX growth (2 years)",
+          "children": [
+            {
+              "name": "Anderson and Garcia-Feijoo (2006)"
+            }
+          ]
+        },
+        {
+          "name": "CAPEX growth (3 years)",
+          "children": [
+            {
+              "name": "Anderson and Garcia-Feijoo (2006)"
+            }
+          ]
+        },
+        {
+          "name": "Change in current operating assets",
+          "children": [
+            {
+              "name": "Richardson et al. (2005)"
+            }
+          ]
+        },
+        {
+          "name": "Change in current operating liabilities",
+          "children": [
+            {
+              "name": "Richardson et al. (2005)"
+            }
+          ]
+        },
+        {
+          "name": "Hiring rate",
+          "children": [
+            {
+              "name": "Belo Lin and Bazdresch (2014)"
+            }
+          ]
+        },
+        {
+          "name": "Inventory growth",
+          "children": [
+            {
+              "name": "Belo and Lin (2011)"
+            }
+          ]
+        },
+        {
+          "name": "Inventory change",
+          "children": [
+            {
+              "name": "Thomas and Zhang (2002)"
+            }
+          ]
+        },
+        {
+          "name": "Change in long-term net operating assets",
+          "children": [
+            {
+              "name": "Fairfield Whisenant and Yohn (2003"
+            }
+          ]
+        },
+        {
+          "name": "Mispricing factor: Management",
+          "children": [
+            {
+              "name": "Stambaugh and Yuan (2016)"
+            }
+          ]
+        },
+        {
+          "name": "Change in noncurrent operating assets",
+          "children": [
+            {
+              "name": "Richardson et al. (2005)"
+            }
+          ]
+        },
+        {
+          "name": "Change in net noncurrent operating assets",
+          "children": [
+            {
+              "name": "Richardson et al. (2005)"
+            }
+          ]
+        },
+        {
+          "name": "Change in net operating assets",
+          "children": [
+            {
+              "name": "Hirshleifer et al. (2004)"
+            }
+          ]
+        },
+        {
+          "name": "Change PPE and Inventory",
+          "children": [
+            {
+              "name": "Lyandres Sun and Zhang (2008)"
+            }
+          ]
+        },
+        {
+          "name": "Long-term reversal",
+          "children": [
+            {
+              "name": "De Bondt and Thaler (1985)"
+            }
+          ]
+        },
+        {
+          "name": "Sales Growth (1 year)",
+          "children": [
+            {
+              "name": "BLakonishok Shleifer and Vishny (1994)"
+            }
+          ]
+        },
+        {
+          "name": "Sales Growth (3 years)",
+          "children": [
+            {
+              "name": "Lakonishok Shleifer and Vishny (1994)"
+            }
+          ]
+        },
+        {
+          "name": "Sales growth (1 quarter)"
+        },
+        {
+          "name": "Years 2-5 lagged returns, nonannual",
+          "children": [
+            {
+              "name": "Heston and Sadka (2008)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Low Leverage",
+      "children": [
+        {
+          "name": "Firm age",
+          "children": [
+            {
+              "name": "Jiang Lee and Zhang (2005)"
+            }
+          ]
+        },
+        {
+          "name": "Liquidity of market assets",
+          "children": [
+            {
+              "name": "Ortiz-Molina and Phillips (2014)"
+            }
+          ]
+        },
+        {
+          "name": "Book leverage",
+          "children": [
+            {
+              "name": "Fama and French (1992)"
+            }
+          ]
+        },
+        {
+          "name": "The high-low bid-ask spread",
+          "children": [
+            {
+              "name": "Corwin and Schultz (2012)"
+            }
+          ]
+        },
+        {
+          "name": "Cash-to-assets",
+          "children": [
+            {
+              "name": "Palazzo (2012)"
+            }
+          ]
+        },
+        {
+          "name": "Net debt-to-price",
+          "children": [
+            {
+              "name": "Penman Richardson and Tuna (2007)"
+            }
+          ]
+        },
+        {
+          "name": "Earnings volatility",
+          "children": [
+            {
+              "name": "Francis et al. (2004)"
+            }
+          ]
+        },
+        {
+          "name": "R&D-to-sales",
+          "children": [
+            {
+              "name": "Chan Lakonishok and Sougiannis (2001)"
+            }
+          ]
+        },
+        {
+          "name": "R&D capital-to-book assets",
+          "children": [
+            {
+              "name": "Li (2011)"
+            }
+          ]
+        },
+        {
+          "name": "Asset tangibility",
+          "children": [
+            {
+              "name": "CHahn and Lee (2009) "
+            }
+          ]
+        },
+        {
+          "name": "Altman Z-score",
+          "children": [
+            {
+              "name": "Dichev (1998)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Low Risk",
+      "children": [
+        {
+          "name": "Market Beta",
+          "children": [
+            {
+              "name": "Fama and MacBeth (1973) "
+            }
+          ]
+        },
+        {
+          "name": "Dimson beta",
+          "children": [
+            {
+              "name": "Dimson (1979)"
+            }
+          ]
+        },
+        {
+          "name": "Frazzini-Pedersen market beta",
+          "children": [
+            {
+              "name": "Frazzini and Pedersen (2014)"
+            }
+          ]
+        },
+        {
+          "name": "Downside beta",
+          "children": [
+            {
+              "name": "Ang Chen and Xing (2006) "
+            }
+          ]
+        },
+        {
+          "name": "Earnings variability",
+          "children": [
+            {
+              "name": "Francis et al. (2004)"
+            }
+          ]
+        },
+        {
+          "name": "Idiosyncratic volatility from the CAPM (21 days)"
+        },
+        {
+          "name": "Idiosyncratic volatility from the CAPM (252 days) ",
+          "children": [
+            {
+              "name": "DAli Hwang and Trombley (2003)"
+            }
+          ]
+        },
+        {
+          "name": "AIdiosyncratic volatility from the Fama-French 3-factor model",
+          "children": [
+            {
+              "name": "Ang et al. (2006)"
+            }
+          ]
+        },
+        {
+          "name": "Idiosyncratic volatility from the q-factor model"
+        },
+        {
+          "name": "ACash flow volatility",
+          "children": [
+            {
+              "name": "Huang (2009)"
+            }
+          ]
+        },
+        {
+          "name": "Maximum daily return",
+          "children": [
+            {
+              "name": "Bali Cakici and Whitelaw (2011)"
+            }
+          ]
+        },
+        {
+          "name": "Highest 5 days of return",
+          "children": [
+            {
+              "name": "Bali, Brown, Murray and Tang (2017)"
+            }
+          ]
+        },
+        {
+          "name": "Return volatility",
+          "children": [
+            {
+              "name": "Ang et al. (2006)"
+            }
+          ]
+        },
+        {
+          "name": "Years 6-10 lagged returns, nonannual",
+          "children": [
+            {
+              "name": "Heston and Sadka (2008)"
+            }
+          ]
+        },
+        {
+          "name": "Share turnover",
+          "children": [
+            {
+              "name": "Datar Naik and Radcliffe (1998) "
+            }
+          ]
+        },
+        {
+          "name": "Number of zero trades with turnover as tiebreaker (6 months)",
+          "children": [
+            {
+              "name": "Liu (2006)"
+            }
+          ]
+        },
+        {
+          "name": "Number of zero trades with turnover as tiebreaker (1 month)",
+          "children": [
+            {
+              "name": "Liu (2006)"
+            }
+          ]
+        },
+        {
+          "name": "Number of zero trades with turnover as tiebreaker (12 months)",
+          "children": [
+            {
+              "name": "Liu (2006)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Momentum",
+      "children": [
+        {
+          "name": "Current price to high price over last year",
+          "children": [
+            {
+              "name": "George and Hwang (2004)"
+            }
+          ]
+        },
+        {
+          "name": "Residual momentum t-12 to t-1",
+          "children": [
+            {
+              "name": "Blitz Huij and Martens (2011)"
+            }
+          ]
+        },
+        {
+          "name": "Residual momentum t-6 to t-1",
+          "children": [
+            {
+              "name": "LBlitz Huij and Martens (2011) "
+            }
+          ]
+        },
+        {
+          "name": "Price momentum t-12 to t-1",
+          "children": [
+            {
+              "name": "Jegadeesh and Titman (1993) "
+            }
+          ]
+        },
+        {
+          "name": "Price momentum t-3 to t-1",
+          "children": [
+            {
+              "name": "Jegadeesh and Titman (1993)"
+            }
+          ]
+        },
+        {
+          "name": "Price momentum t-6 to t-1",
+          "children": [
+            {
+              "name": "Jegadeesh and Titman (1993)"
+            }
+          ]
+        },
+        {
+          "name": "Price momentum t-9 to t-1",
+          "children": [
+            {
+              "name": "Jegadeesh and Titman (1993)"
+            }
+          ]
+        },
+        {
+          "name": "Year 1-lagged return, nonannual",
+          "children": [
+            {
+              "name": "Heston and Sadka (2008)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Profit Growth",
+      "children": [
+        {
+          "name": "Change sales minus change Inventory",
+          "children": [
+            {
+              "name": "Abarbanell and Bushee (1998)"
+            }
+          ]
+        },
+        {
+          "name": "Change sales minus change receivables",
+          "children": [
+            {
+              "name": "Abarbanell and Bushee (1998)"
+            }
+          ]
+        },
+        {
+          "name": "Change sales minus change SG&A",
+          "children": [
+            {
+              "name": "Abarbanell and Bushee (1998)"
+            }
+          ]
+        },
+        {
+          "name": "Change in quarterly return on assets"
+        },
+        {
+          "name": "Change in quarterly return on equity"
+        },
+        {
+          "name": "Standardized earnings surprise",
+          "children": [
+            {
+              "name": "Foster Olsen and Shevlin (1984)"
+            }
+          ]
+        },
+        {
+          "name": "Change in operating cash flow to assets",
+          "children": [
+            {
+              "name": "Bouchard, Krüger, Landier and Thesmar (2019)"
+            }
+          ]
+        },
+        {
+          "name": "Price momentum t-12 to t-7",
+          "children": [
+            {
+              "name": "Novy-Marx (2012)"
+            }
+          ]
+        },
+        {
+          "name": "Labor force efficiency",
+          "children": [
+            {
+              "name": "Abarbanell and Bushee (1998)"
+            }
+          ]
+        },
+        {
+          "name": "Standardized Revenue surprise",
+          "children": [
+            {
+              "name": "Jegadeesh and Livnat (2006)"
+            }
+          ]
+        },
+        {
+          "name": "Year 1-lagged return, annual",
+          "children": [
+            {
+              "name": "Heston and Sadka (2008)"
+            }
+          ]
+        },
+        {
+          "name": "Tax expense surprise",
+          "children": [
+            {
+              "name": "Thomas and Zhang (2011)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Profitability",
+      "children": [
+        {
+          "name": "Coefficient of variation for dollar trading volume",
+          "children": [
+            {
+              "name": "Chordia Subrahmanyam and Anshuman (2001)"
+            }
+          ]
+        },
+        {
+          "name": "Return on net operating assets",
+          "children": [
+            {
+              "name": "Soliman (2008)"
+            }
+          ]
+        },
+        {
+          "name": "Profit margin",
+          "children": [
+            {
+              "name": "Soliman (2008)"
+            }
+          ]
+        },
+        {
+          "name": "CPitroski F-score",
+          "children": [
+            {
+              "name": "Piotroski (2000)"
+            }
+          ]
+        },
+        {
+          "name": "Return on equity",
+          "children": [
+            {
+              "name": "Haugen and Baker (1996)"
+            }
+          ]
+        },
+        {
+          "name": "Quarterly return on equity",
+          "children": [
+            {
+              "name": "Hou Xue and Zhang (2015) "
+            }
+          ]
+        },
+        {
+          "name": "Ohlson O-score",
+          "children": [
+            {
+              "name": "Dichev (1998)"
+            }
+          ]
+        },
+        {
+          "name": "Operating cash flow to assets",
+          "children": [
+            {
+              "name": "Bouchard, Krüger, Landier and Thesmar (2019)"
+            }
+          ]
+        },
+        {
+          "name": "Operating profits-to-book equity",
+          "children": [
+            {
+              "name": "Fama and French (2015)"
+            }
+          ]
+        },
+        {
+          "name": "Operating profits-to-lagged book equity"
+        },
+        {
+          "name": "Coefficient of variation for share turnover",
+          "children": [
+            {
+              "name": "Chordia Subrahmanyam and Anshuman (2001) "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quality",
+      "children": [
+        {
+          "name": "Capital turnover",
+          "children": [
+            {
+              "name": "Haugen and Baker (1996) "
+            }
+          ]
+        },
+        {
+          "name": "Cash-based operating profits-to-book assets"
+        },
+        {
+          "name": "Change gross margin minus change sales",
+          "children": [
+            {
+              "name": "Abarbanell and Bushee (1998)"
+            }
+          ]
+        },
+        {
+          "name": "Gross profits-to-assets",
+          "children": [
+            {
+              "name": "Novy-Marx (2013) "
+            }
+          ]
+        },
+        {
+          "name": "Gross profits-to-lagged assets"
+        },
+        {
+          "name": "Mispricing factor: Performance",
+          "children": [
+            {
+              "name": "Stambaugh and Yuan (2016)"
+            }
+          ]
+        },
+        {
+          "name": "Number of consecutive quarters with earnings increases",
+          "children": [
+            {
+              "name": "Barth Elliott and Finn (1999)"
+            }
+          ]
+        },
+        {
+          "name": "Quarterly return on assets",
+          "children": [
+            {
+              "name": "Balakrishnan Bartov and Faurel (2010)"
+            }
+          ]
+        },
+        {
+          "name": "Operating profits-to-book assets"
+        },
+        {
+          "name": "Operating profits-to-lagged book assets",
+          "children": [
+            {
+              "name": "Ball et al. (2016)"
+            }
+          ]
+        },
+        {
+          "name": "Operating leverage",
+          "children": [
+            {
+              "name": "Novy-Marx (2011)"
+            }
+          ]
+        },
+        {
+          "name": "Quality minus Junk: Composite",
+          "children": [
+            {
+              "name": "Assness, Frazzini and Pedersen (2018)"
+            }
+          ]
+        },
+        {
+          "name": "Quality minus Junk: Growth",
+          "children": [
+            {
+              "name": "Assness, Frazzini and Pedersen (2018)"
+            }
+          ]
+        },
+        {
+          "name": "Quality minus Junk: Profitability",
+          "children": [
+            {
+              "name": "Assness, Frazzini and Pedersen (2018)"
+            }
+          ]
+        },
+        {
+          "name": "Quality minus Junk: Safety",
+          "children": [
+            {
+              "name": "Assness, Frazzini and Pedersen (2018)"
+            }
+          ]
+        },
+        {
+          "name": "Assets turnover",
+          "children": [
+            {
+              "name": "Soliman (2008)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seasonality",
+      "children": [
+        {
+          "name": "Market correlation",
+          "children": [
+            {
+              "name": "Assness, Frazzini, Gormsen, Pedersen (2020)"
+            }
+          ]
+        },
+        {
+          "name": "Coskewness",
+          "children": [
+            {
+              "name": "Harvey and Siddique (2000)"
+            }
+          ]
+        },
+        {
+          "name": "Net debt issuance",
+          "children": [
+            {
+              "name": "Bradshaw Richardson and Sloan (2006)"
+            }
+          ]
+        },
+        {
+          "name": "Kaplan-Zingales index",
+          "children": [
+            {
+              "name": "Lamont Polk and Saa-Requejo (2001)"
+            }
+          ]
+        },
+        {
+          "name": "Change in long-term investments",
+          "children": [
+            {
+              "name": "Richardson et al. (2005)"
+            }
+          ]
+        },
+        {
+          "name": "Taxable income-to-book income",
+          "children": [
+            {
+              "name": "Lev and Nissim (2004)"
+            }
+          ]
+        },
+        {
+          "name": "Years 11-15 lagged returns, annual",
+          "children": [
+            {
+              "name": "Heston and Sadka (2008)"
+            }
+          ]
+        },
+        {
+          "name": "Years 16-20 lagged returns, annual",
+          "children": [
+            {
+              "name": "Heston and Sadka (2008)"
+            }
+          ]
+        },
+        {
+          "name": "Years 2-5 lagged returns, annual",
+          "children": [
+            {
+              "name": "Heston and Sadka (2008)"
+            }
+          ]
+        },
+        {
+          "name": "Years 6-10 lagged returns, annual",
+          "children": [
+            {
+              "name": "Heston and Sadka (2008)"
+            }
+          ]
+        },
+        {
+          "name": "Change in short-term investments",
+          "children": [
+            {
+              "name": "Richardson et al. (2005)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Short-Term Reversal",
+      "children": [
+        {
+          "name": "Idiosyncratic skewness from the CAPM"
+        },
+        {
+          "name": "Idiosyncratic skewness from the Fama-French 3-factor model",
+          "children": [
+            {
+              "name": "Bali Engle and Murray (2016)"
+            }
+          ]
+        },
+        {
+          "name": "Idiosyncratic skewness from the q-factor model"
+        },
+        {
+          "name": "Short-term reversal",
+          "children": [
+            {
+              "name": "Jegadeesh (1990)"
+            }
+          ]
+        },
+        {
+          "name": "Highest 5 days of return scaled by volatility",
+          "children": [
+            {
+              "name": "Assness, Frazzini, Gormsen, Pedersen (2020)"
+            }
+          ]
+        },
+        {
+          "name": "Total skewness",
+          "children": [
+            {
+              "name": "Bali Engle and Murray (2016)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Size",
+      "children": [
+        {
+          "name": "Amihud Measure",
+          "children": [
+            {
+              "name": "Amihud (2002)"
+            }
+          ]
+        },
+        {
+          "name": "Dollar trading volume",
+          "children": [
+            {
+              "name": "Brennan Chordia and Subrahmanyam (1998)"
+            }
+          ]
+        },
+        {
+          "name": "Market Equity",
+          "children": [
+            {
+              "name": "Banz (1981)"
+            }
+          ]
+        },
+        {
+          "name": "Price per share",
+          "children": [
+            {
+              "name": "Miller and Scholes (1982)"
+            }
+          ]
+        },
+        {
+          "name": "R&D-to-market",
+          "children": [
+            {
+              "name": "Chan Lakonishok and Sougiannis (2001)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Value",
+      "children": [
+        {
+          "name": "Assets-to-market",
+          "children": [
+            {
+              "name": "Fama and French (1992)"
+            }
+          ]
+        },
+        {
+          "name": "Book-to-market equity",
+          "children": [
+            {
+              "name": "Rosenberg Reid and Lanstein (1985)"
+            }
+          ]
+        },
+        {
+          "name": "Book-to-market enterprise value",
+          "children": [
+            {
+              "name": "Penman Richardson and Tuna (2007)"
+            }
+          ]
+        },
+        {
+          "name": "Net stock issues",
+          "children": [
+            {
+              "name": "Pontiff and Woodgate (2008)"
+            }
+          ]
+        },
+        {
+          "name": "Debt-to-market",
+          "children": [
+            {
+              "name": "Bhandari (1988)"
+            }
+          ]
+        },
+        {
+          "name": "Dividend yield",
+          "children": [
+            {
+              "name": "Litzenberger and Ramaswamy (1979)"
+            }
+          ]
+        },
+        {
+          "name": "Ebitda-to-market enterprise value",
+          "children": [
+            {
+              "name": "Loughran and Wellman (2011)"
+            }
+          ]
+        },
+        {
+          "name": "Equity duration",
+          "children": [
+            {
+              "name": "Dechow Sloan and Soliman (2004)"
+            }
+          ]
+        },
+        {
+          "name": "Net equity issuance",
+          "children": [
+            {
+              "name": "Bradshaw Richardson and Sloan (2006)"
+            }
+          ]
+        },
+        {
+          "name": "Equity net payout",
+          "children": [
+            {
+              "name": "Daniel and Titman (2006)"
+            }
+          ]
+        },
+        {
+          "name": "Net payout yield",
+          "children": [
+            {
+              "name": "Boudoukh et al. (2007)"
+            }
+          ]
+        },
+        {
+          "name": "Payout yield",
+          "children": [
+            {
+              "name": "Boudoukh et al. (2007)"
+            }
+          ]
+        },
+        {
+          "name": "Free cash flow-to-price",
+          "children": [
+            {
+              "name": "Lakonishok Shleifer and VisNhny (1994)"
+            }
+          ]
+        },
+        {
+          "name": "Intrinsic value-to-market",
+          "children": [
+            {
+              "name": "Frankel and Lee (1998)"
+            }
+          ]
+        },
+        {
+          "name": "Net total issuance",
+          "children": [
+            {
+              "name": "Bradshaw Richardson and Sloan (2006)"
+            }
+          ]
+        },
+        {
+          "name": "Earnings-to-price",
+          "children": [
+            {
+              "name": "Basu (1983)"
+            }
+          ]
+        },
+        {
+          "name": "Operating cash flow-to-market",
+          "children": [
+            {
+              "name": "Desai Rajgopal and Venkatachalam (2004)"
+            }
+          ]
+        },
+        {
+          "name": "Sales-to-market",
+          "children": [
+            {
+              "name": "Barbee Mukherji and Raines (1996)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
