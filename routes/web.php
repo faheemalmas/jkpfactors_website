@@ -23,21 +23,8 @@ use Illuminate\Support\Facades\Log;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
-// Route::get('/state/execute', [ApiController::class, 'showStateMachineForm']);
-// Route::post('/state/execute', [ApiController::class, 'executeStateMachine']);
-// Route::get('/crud/get_file_upload_link', [ApiController::class, 'showFileUploadLinkForm']);
-// Route::post('/crud/submission', [ApiController::class, 'addSubmission']);
-
-
-
 Route::post('/submit-form', [CommonTaskFrameworkController::class, 'store'])->name('tasks.store');
 
-// Route::resource('tasks', CommonTaskFrameworkController::class);
-// Route::get('/leaderboard', [ApiController::class, 'getBenchmarks']);
-// dd(storage_path('framework/sessions'));
-
-// Route::get('/tasks', [CommonTaskFrameworkController::class, 'index'])->name('upload.index');
 Route::post('/upload', [CommonTaskFrameworkController::class, 'store'])->name('upload.store');
 Route::post('/ctf-data-store', [CtfDataStoreController::class, 'store'])->name('ctfdata.store');
 
@@ -56,12 +43,6 @@ Route::get('/graph', function () {
     return view('client.treegraph');
 });
 
-
-// Route::get('/', [HomeChartController::class, 'showChart']);
-
-// Route::get('/contact', function () {
-//     return view('client.contact')->name('contactIndex');;
-// });
 Route::get('/contact',[HomeController::class,'index'])->name('contactIndex');
 Route::post('/contact',[HomeController::class,'store'])->name('contactStore');
 Route::delete('/contact/delete/{id}',[HomeController::class,'destroy'])->name('tasks.destroy');
@@ -74,9 +55,7 @@ Route::get('/factor-returns', function () {
 Route::get('/stock-char', function () {
     return view('client.stock');
 });
-// Route::get('/analysis', function () {
-//     return view('client.analysis');
-// });
+
 Route::get('/performance-of-factors', [ChartController::class, 'showChart'])->name('analysis.showChart');
 Route::get('/analysis', [ChartController::class, 'showCharts'])->name('performanceoffactors.showCharts');
 
@@ -113,7 +92,6 @@ Auth::routes();
 
 Route::group(['middleware' => ['auth']], function() {
     Route::get('/home', [App\Http\Controllers\HomeController::class, 'adminIndex'])->name('home');
-    // Route::get('/factors', [App\Http\Controllers\HomeController::class, 'factorsCheck'])->name('factorsCheck');
     Route::get('/factors', [HomeController::class, 'factorsCheck'])->name('admin.uploads.index');
     
     Route::get('/admin/update', [App\Http\Controllers\HomeController::class, 'editAdmin'])->name('admin.edit');

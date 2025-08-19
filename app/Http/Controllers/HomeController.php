@@ -85,7 +85,7 @@ class HomeController extends Controller
 
     public function editAdmin()
     {
-        $admin = User::where('email', 'admin@gmail.com')->first(); // or by role if needed
+        $admin = User::role('admin')->firstOrFail();
         return view('admin.update', compact('admin'));
     }
 
