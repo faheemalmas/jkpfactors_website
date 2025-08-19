@@ -85,7 +85,12 @@ class HomeController extends Controller
 
     public function editAdmin()
     {
-        $admin = User::role('admin')->firstOrFail();
+        $admin = User::role('admin')->first();
+
+        if (! $admin) {
+            abort(404, 'No admin user found');
+        }
+        
         return view('admin.update', compact('admin'));
     }
 
